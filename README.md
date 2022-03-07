@@ -1,27 +1,54 @@
-# Fevereiro
+# COLLIER
+---
+## 1. Descrição do projeto
 
-## Semana 1:
 
-- ***Do dia 7 ao dia 11;***
-- Fizemos o levantamento de algumas opções de tema;
-- Discussão dos possiveis temas;
-- Pesquisa sobre cada um e como seriam feitos.
 
-## Semana 2:
-- ***Do dia 14 ao dia 18;***
-- Decisão do tema;
-- Pesquisa sobre a relevancia do projeto, quais suas importancias e se traria realmente alguma melhora para com o foco do projeto (neste caso os animais quadrupedes, como os gatos e cachorros).
+Observando o cenário atual de nossa sociedade podemos notar que os animais de estimação estão, cada vez mais, sendo tratados como um verdadeiro membro da família, todos querem proporcionar uma vida boa e confortável para seu animal e ajudá-los nas dificuldades que eles possam vir a ter.
 
-## Semana 3:
-- ***Do dia 21 ao dia 25;***
-- Vista de alguns videos e paginas de explicação em relação aos componentes que não sabiamos como usar, como: [Sensor de Distância GY-53](https://youtu.be/AyA0E4xANzA)
-- Pesquisa sobre valores e componentes que serão necessarios para o projeto;
-- Estudamos um pouco mais sobre a linguagem que usaremos em nosso projeto.
 
-# Março
 
-## Semana 4:
-- ***Do dia 28 ao dia 4;***
-- Criação da logo do projeto:
+Diversos aparelhos e medicamentos já foram desenvolvidos para auxiliá-los na em suas necessidades, porém, em alguns casos, não é proporcionada a devida atenção, um desses casos é a falta de auxílio para animais cegos, claro que existem certos cuidados e alguns equipamentos, como as coleiras adaptadas, porém elas não proporcionam grande conforto ao animal.
 
-![cachorro](https://user-images.githubusercontent.com/99488062/156838324-a6b2d2a9-43ef-4fdf-9431-8b11e6389d49.png)
+
+
+Levanto em consideração essa temática abordada por nosso grupo, decidimos realizar um projeto para suprir essa necessidade de amparo com esses animais e proporcioná-los maior conforto e segurança, com a ideia de construir e programar uma coleira que possui um sensor de distância a laser.
+
+
+
+Essa coleira vai detectar, com o uso do sensor de distância, quando o animal estiver prestes a colidir em algo e irá emitir um leve barulho, alertando o animal, que com o tempo ira associar o barulho a essa “colisão”, para que ele consiga desviar e também alertar seu dono.
+
+
+
+---
+
+
+
+## 2. Tecnologias adotadas
+
+
+
+A tecnologia que irá ser utilizada será um arduino e um sensor de distância a laser, um buzzer e possivelmente algum método de economia de energia.
+Montaremos tudo na plataforma Tinkercad e após esse processo ser realizado, a construção será iniciada, tornando do nosso projeto possível.
+Escolhemos um sensor a laser por conta do seu tamanho reduzido, facilitando a junção dele à coleira, e sua sensível e longa capacidade de detecção.
+Os obstáculos que encontramos será o acoplamento das hastes à roupa do animal para o suporte do sensor.
+
+
+
+---
+
+
+
+## 3. Logo da Equipe
+
+
+
+![chorro](https://user-images.githubusercontent.com/100946334/156784682-98db3330-6be7-4c14-b369-b00742380ab8.png)
+
+
+
+---
+
+
+
+- **Equipe:** Ana Carolina Soares, Angélica Sousa, Beatriz Gonçalvez, Emily Saraiva, Eduardo Ramalho, Juliana Freitas
