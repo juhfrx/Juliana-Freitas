@@ -1,4 +1,4 @@
-# COLLIER
+# COLLAR VISION
 ---
 ## 1. Descrição do projeto
 
