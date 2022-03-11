@@ -1,4 +1,4 @@
-# COLLAR VISION
+# PET-V
 ---
 ## 1. Descrição do projeto
 
