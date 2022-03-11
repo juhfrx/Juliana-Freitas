@@ -9,3 +9,4 @@
 
 ## Semana 5 - Do dia 07/03 ao dia 11/03:
 - Criação do nome do projeto: **Collar Vision**
+- Mudança do nome do projeto para: **PET-V**
