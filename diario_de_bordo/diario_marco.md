@@ -21,3 +21,8 @@
 - Adição do componente GPS ao projeto;
 - Maior pesquisa sobre os preços e componentes a serem utilizados;
 - Reescrita da parte de descrição de tema e justificativa.
+
+### Semana 8 - Do dia 28/03 ao dia 01/04
+- Realização da primeira apresentação prévia;
+- Calculo dos preços dos componentes a serem utilizados no projeto;
+- Algumas alterações no código base.
