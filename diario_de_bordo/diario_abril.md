@@ -9,3 +9,8 @@
 - Calculo final de seus valores;
 - Pequenas alterações na logo;
 ### Semana 11 - Do dia 25/04 ao dia 29/04
+- Continuação da pesquisa de artigos relacionados ao tema, tanto da parte de embasamento teórico quanto de embasamento técnico;
+- Continuação de alterações da logo:
+
+![logo2](https://user-images.githubusercontent.com/99488062/167213329-b7e3074b-97ff-450d-b32e-943f955f735d.jpg)
+
