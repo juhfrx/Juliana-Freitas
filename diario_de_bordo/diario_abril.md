@@ -7,10 +7,12 @@
 ### Semana 11 - Do dia 18/04 ao dia 22/04
 - Seleção final dos componentes a serem usados no projeto (sem a inclusão do sensor GPS, por agora);
 - Calculo final de seus valores;
-- Pequenas alterações na logo;
+- Inicio de alterações na nova logo:
+
+![logo2](https://user-images.githubusercontent.com/99488062/167213329-b7e3074b-97ff-450d-b32e-943f955f735d.jpg)
+
 ### Semana 11 - Do dia 25/04 ao dia 29/04
 - Continuação da pesquisa de artigos relacionados ao tema, tanto da parte de embasamento teórico quanto de embasamento técnico;
 - Continuação de alterações da logo:
 
-![logo2](https://user-images.githubusercontent.com/99488062/167213329-b7e3074b-97ff-450d-b32e-943f955f735d.jpg)
-
+### ![logo3](https://user-images.githubusercontent.com/99488062/167214070-4f125f95-41f1-4353-8dfa-4a53d916d25e.jpeg) 
