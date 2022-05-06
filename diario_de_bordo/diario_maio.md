@@ -4,4 +4,5 @@
 - Adaptação de cabo USB para teste:
 
  <img src="./imagens/USB_maio.jpeg" alt="USB_maio" width="300" height="375">
-- Teste da adaptação do deck de bateria com ponta de micro USB pra conectar a um arduino nano.
+ 
+ - Teste da adaptação do deck de bateria com ponta de micro USB pra conectar a um arduino nano.
