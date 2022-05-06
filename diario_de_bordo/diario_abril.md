@@ -9,10 +9,10 @@
 - Calculo final de seus valores;
 - Inicio de alterações na nova logo:
 
-![logo_abril02](./imagens/logo_abril02.jpg)
+ <img src="./imagens/logo_abril02.jpg" alt="logo_abril02" width="380" height="315">
 
 ### Semana 11 - Do dia 25/04 ao dia 29/04
 - Continuação da pesquisa de artigos relacionados ao tema, tanto da parte de embasamento teórico quanto de embasamento técnico;
 - Continuação de alterações da logo:
 
-![logo_maio03](./imagens/logo_maio03.jpeg)
+<img src="./imagens/logo_maio03.jpeg" alt="logo_maio03" width="380" height="320">
