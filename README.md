@@ -1,6 +1,6 @@
 # PET-V
 ---
-- [Diário](./diario_de_bordo/)
+- [Diário](./menu_diario/)
 - [Página](./README.md/)
 - [Introdução](./introducao.md/)
 - [Referências](./referencia.md)
