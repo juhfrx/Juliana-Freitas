@@ -1,7 +1,7 @@
 # PET-V
 ---
 - [Diário](./diario_de_bordo/menu_diario.md/)
-- [Página](./_config.yml/)
+- [Página](https://juhfrx.github.io/Juliana-Freitas/)
 - [Introdução](./introducao.md/)
 - [Referências](./referencia.md)
 ---
