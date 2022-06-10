@@ -13,3 +13,14 @@
  
  ### Semana 12 - Do dia 09/05 ao dia 13/05
  - Compra de alguns componentes do projeto.
+
+### Semana 12 - Do dia 16/05 ao dia 20/05
+- Analise a respeito da compra de alguns componentes ja selecionados;
+- Escrita da justificativa;
+- Pesquisa de mais projetos relacionados ou que auxiliem na documentação do projeto;
+- Termino da escrita da introdução;
+- Alterações em alguns detalhes do site do projeto no Github;
+
+### Semana 12 - Do dia 23/05 ao dia 27/05
+- Compra do restante dos componentes;
+- Inicio da preparação para a segunda apresentação prévia;
