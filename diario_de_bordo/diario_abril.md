@@ -16,7 +16,7 @@
 
  <img src="./imagens/logo_abril02.jpg" alt="logo_abril02" width="380" height="315">
 
-### Semana 11 - Do dia 25/04 ao dia 29/04
+### Semana 12 - Do dia 25/04 ao dia 29/04
 - Continuação da pesquisa de artigos relacionados ao tema, tanto da parte de embasamento teórico quanto de embasamento técnico;
 - Continuação de alterações da logo:
 
