@@ -11,7 +11,7 @@
 - Escrita  de Objetivos e organização do Cronograma;
 - Para a área "Resultados esperados" no documento exigido pala Bragantec, além da adição de uma imagem da montagem do codigo no Tinkercad, foi feita uma representação básica do que esperamos fisicamente como resultado:
 
-![tcc](https://user-images.githubusercontent.com/99488062/181648574-ac4439c7-3bde-42a1-872a-a1035d44435e.png)
+ <img src="./imagens/result_junho.png" alt="result_junho" width="540" height="415">
 
 - Finalização da escrita do documento.
 
