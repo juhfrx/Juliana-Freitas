@@ -11,7 +11,7 @@
  
  - Teste da adaptação do deck de bateria com ponta de micro USB pra conectar a um arduino nano.
  
- ### Semana 14 - Do dia 09/05 ao dia 13/05
+### Semana 14 - Do dia 09/05 ao dia 13/05
  - Compra de alguns componentes do projeto;
  - Analise a respeito da compra de alguns componentes ja selecionados;
 
