@@ -19,4 +19,4 @@
 - Submissão do documento para inscrição da Bragantec.
 
 ### Semana 21 - Do dia 27/06 ao dia 01/07
-- Espera dos componentes.
+- Espera da chegada dos componentes.
