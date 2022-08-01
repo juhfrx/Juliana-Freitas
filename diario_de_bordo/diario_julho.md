@@ -6,6 +6,10 @@
 - chegada de outros componentes.
 
 ### Semana 24 - Do dia 18/07 ao dia 22/07
-- Chegada do restante dos componentes.
+- Chegada do restante dos componentes:
+
 
 ### Semana 25 - Do dia 25/07 ao dia 29/07
+- Inicio de organização para montagem dos componentes;
+- Compra de um novo componente: mini ProtoBoard;
+- Pesquisa de um colete para compra e futura estruturação do projeto. 
