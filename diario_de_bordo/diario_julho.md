@@ -10,6 +10,4 @@
 
 
 ### Semana 25 - Do dia 25/07 ao dia 29/07
-- Inicio de organização para montagem dos componentes;
-- Compra de um novo componente: mini ProtoBoard;
 - Pesquisa de um colete para compra e futura estruturação do projeto. 
