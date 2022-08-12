@@ -7,6 +7,7 @@
 
 ### Semana 24 - Do dia 18/07 ao dia 22/07
 - Chegada do restante dos componentes:
+ <img src="./imagens/comp.jpeg" alt="comp" width="375" height="300">
 
 
 ### Semana 25 - Do dia 25/07 ao dia 29/07
