@@ -5,7 +5,8 @@
 
 ### Semana 24 - Do dia 08/08 ao dia 12/08
 - Realização de teste do sensor de vibração;
-- Verificação da funcionalidade dos componentes;
+- Verificação da funcionalidade dos componentes:
+ <img src="./imagens/teste1.jpeg" alt="teste1" width="382" height="300">
 - Inicio da solda e montagem do projeto.
 
 ### Semana 25 - Do dia 15/08 ao dia 20/08
