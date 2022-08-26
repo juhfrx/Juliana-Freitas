@@ -7,3 +7,4 @@
 - [Diário Junho](./diario_junho.md)
 - [Diário Julho](./diario_julho.md)
 - [Diário Agosto](./diario_ago.md)
+- [Diário Setembro](./diario_set.md)
