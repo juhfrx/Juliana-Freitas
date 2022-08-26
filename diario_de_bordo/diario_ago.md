@@ -5,10 +5,12 @@
 
 ### Semana 24 - Do dia 08/08 ao dia 12/08
 - Realização de teste do sensor de vibração;
-- Verificação da funcionalidade dos componentes:
+- Verificação da funcionalidade de alguns componentes:
  <img src="./imagens/teste1.jpeg" alt="teste1" width="382" height="300">
-- Inicio da solda e montagem do projeto.
 
 ### Semana 25 - Do dia 15/08 ao dia 20/08
+- Inicio da solda de alguns componentes, junto a testes realizados com os mesmos:
 
 ### Semana 26 - Do dia 23/08 ao dia 28/08
+- Correções do arquivo da bragantec;
+- testes realizados com o sensor de distância.
