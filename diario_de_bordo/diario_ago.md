@@ -17,4 +17,5 @@
 
 ### Semana 26 - Do dia 23/08 ao dia 28/08
 - Correções do arquivo da bragantec;
-- testes realizados com o sensor de distância.
+- testes realizados com o sensor de distância junto a algumas mudanças no código;
+-  Inicio da produção da nova logo:
