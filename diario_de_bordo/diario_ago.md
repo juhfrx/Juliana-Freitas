@@ -19,3 +19,4 @@
 - Correções do arquivo da bragantec;
 - testes realizados com o sensor de distância junto a algumas mudanças no código;
 -  Inicio da produção da nova logo:
+<img src="./imagens/logom.jpeg" alt="logom" width="380" height="380">
