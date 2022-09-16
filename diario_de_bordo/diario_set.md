@@ -13,13 +13,16 @@
 <img src="./imagens/logofinal.jpeg" alt="logofinal" width="380" height="380">
 
 
-### Semana 28 - Do dia 05/08 ao dia 09/09
+### Semana 28 - Do dia 05/09 ao dia 09/09
 - Apresentação;
 - Teste final dos componentes:
-<img src="./imagens/testefinal.jpeg" alt="testefinal" width="380" height="380">
+<img src="./imagens/testefinal1.jpeg" alt="testefinal1" width="310" height="390">
 
-### Semana 29 - Do dia 12/08 ao dia 16/09
+### Semana 29 - Do dia 12/09 ao dia 16/09
 - Compra da roupinha que será utilizada para a montagem do colete;
 - Compra do arame que irá manter o colete fixo;
 - Inicio da junção dos componentes com a roupinha;
 - Inicio da produção do banner.
+
+### Semana 30 - Do dia 19/09 ao dia 23/09
+- Continuação da produção do banner;
