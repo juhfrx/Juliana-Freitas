@@ -23,13 +23,15 @@
 - Compra da roupinha que será utilizada para a montagem do colete;
 - Compra do arame que irá manter o colete fixo;
 - Inicio de testes da junção dos componentes com a roupinha de diferentes formas;
- <img src="./imagens/coleteteste.jpeg" alt="coleteteste" width="440" height="300">
+ <img src="./imagens/coleteteste.jpeg" alt="coleteteste" width="310" height="390">
+ 
 - Inicio da produção do poster.
 
 ### Semana 30 - Do dia 19/09 ao dia 23/09
 - Continuação da produção do banner;
 - Inicio da criação de suporte com arame do colete;
  <img src="./imagens/coletearame.jpeg" alt="coletearame" width="440" height="300">
+ 
 - Término da pordução do poster e gravação de video com explicação do pojeto;
 - Envio dos documentos para Bragantec.
 
