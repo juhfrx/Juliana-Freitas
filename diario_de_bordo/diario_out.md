@@ -10,6 +10,7 @@
 
 ### Semana 34 - Do dia 17/10 ao dia 21/10
 - Inicio da preparação do arquivo do tcc para apresentação final;
+- Realização de algumas pesquisas especificas para escrita de topicos do documento;
 - Inicio da preparação para o banner.
 
 ### Semana 35 - Do dia 24/10 ao dia 28/10
