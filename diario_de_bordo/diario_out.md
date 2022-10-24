@@ -5,7 +5,7 @@
  <img src="./imagens/bragantec1.png" alt="bragantec1" width="470" height="360">
 
 ### Semana 33 - Do dia 10/10 ao dia 14/10
- * Recesso 
+ * Recesso;
 
 ### Semana 34 - Do dia 17/10 ao dia 21/10
 - Inicio da preparação do arquivo do tcc para apresentação final;
@@ -13,4 +13,4 @@
 - Inicio da preparação para o banner.
 
 ### Semana 35 - Do dia 24/10 ao dia 28/10
-- Finalizção dos arquivos (banner e documento)
+- Finalização dos arquivos (banner e documento);
